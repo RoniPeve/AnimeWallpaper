@@ -34,5 +34,17 @@
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Chica%20rubia%20en%20calle%20nocturna.png",
      "price_save": 160,
     "price_wallpaper": 200
+  },
+  {
+    "id": "img7",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20elegante%20en%20sal%C3%B3n%20luminoso.png",
+     "price_save": 170,
+    "price_wallpaper": 200
+  },
+  {
+    "id": "img8",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20en%20habitaci%C3%B3n%20luminosa.png",
+     "price_save": 170,
+    "price_wallpaper": 200
   }
 ]
