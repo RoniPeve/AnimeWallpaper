@@ -46,5 +46,23 @@
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20en%20habitaci%C3%B3n%20luminosa.png",
      "price_save": 170,
     "price_wallpaper": 200
+  },
+  {
+    "id": "img9",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20relajada%20junto%20a%20la%20piscina.png",
+     "price_save": 170,
+    "price_wallpaper": 200
+  },
+  {
+    "id": "img10",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Soldado%20en%20un%20mundo%20industrial.png",
+     "price_save": 170,
+    "price_wallpaper": 200
+  },
+  {
+    "id": "img10",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Sonrisa%20en%20la%20luz%20del%20d%C3%ADa.png",
+     "price_save": 200,
+    "price_wallpaper": 200
   }
 ]
