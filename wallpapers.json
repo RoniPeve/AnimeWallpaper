@@ -60,9 +60,16 @@
     "price_wallpaper": 200
   },
   {
-    "id": "img10",
+    "id": "img11",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Sonrisa%20en%20la%20luz%20del%20d%C3%ADa.png",
      "price_save": 200,
     "price_wallpaper": 200
+  },
+  {
+    "id": "img12",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/Animadora%20en%20el%20campo%20de%20f%C3%BAtbol.png",
+     "price_save": 200,
+    "price_wallpaper": 200
   }
+
 ]
