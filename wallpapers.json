@@ -2,74 +2,74 @@
   {
     "id": "img1",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Guerrera%20en%20un%20almac%C3%A9n%20abandonado.png",
-     "price_save": 50,
-    "price_wallpaper": 30
+     "price_save": 500,
+    "price_wallpaper": 600
   },
   {
     "id": "img2",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20atl%C3%A9tica%20en%20una%20calle%20urbana.png",
-     "price_save": 150,
-    "price_wallpaper": 200
+     "price_save": 1000,
+    "price_wallpaper": 1100
   },
   {
      "id": "img3",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20con%20gafas%20en%20plaza%20europea.png",
-     "price_save": 150,
-    "price_wallpaper": 200
+     "price_save": 1500,
+    "price_wallpaper": 1600
   },
   {
     "id": "img4",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20de%20cabellera%20roja%20en%20ciudad%20industrial.png",
-     "price_save": 150,
-    "price_wallpaper": 200
+     "price_save": 2000,
+    "price_wallpaper": 2100
   },
   {
     "id": "img5",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20elegante%20en%20sala%20cl%C3%A1sica.png",
-     "price_save": 150,
-    "price_wallpaper": 200
+     "price_save": 3000,
+    "price_wallpaper": 3100
   },
   {
     "id": "img6",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Chica%20rubia%20en%20calle%20nocturna.png",
-     "price_save": 160,
-    "price_wallpaper": 200
+     "price_save": 5000,
+    "price_wallpaper": 5100
   },
   {
     "id": "img7",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20elegante%20en%20sal%C3%B3n%20luminoso.png",
-     "price_save": 170,
-    "price_wallpaper": 200
+     "price_save": 8000,
+    "price_wallpaper": 8100
   },
   {
     "id": "img8",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20en%20habitaci%C3%B3n%20luminosa.png",
-     "price_save": 170,
-    "price_wallpaper": 200
+     "price_save": 10000,
+    "price_wallpaper": 1100
   },
   {
     "id": "img9",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Mujer%20relajada%20junto%20a%20la%20piscina.png",
-     "price_save": 170,
-    "price_wallpaper": 200
+     "price_save": 12000,
+    "price_wallpaper": 12100
   },
   {
     "id": "img10",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Soldado%20en%20un%20mundo%20industrial.png",
-     "price_save": 170,
-    "price_wallpaper": 200
+     "price_save": 14000,
+    "price_wallpaper": 14100
   },
   {
     "id": "img11",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Sonrisa%20en%20la%20luz%20del%20d%C3%ADa.png",
-     "price_save": 200,
-    "price_wallpaper": 200
+     "price_save": 15000,
+    "price_wallpaper": 15100
   },
   {
     "id": "img12",
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(1).png",
-     "price_save": 200,
-    "price_wallpaper": 200
+     "price_save": 20000,
+    "price_wallpaper": 20100
   }
 
 ]
