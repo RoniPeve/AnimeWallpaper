@@ -70,6 +70,54 @@
     "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(1).png",
      "price_save": 20000,
     "price_wallpaper": 20100
+  },
+  {
+    "id": "img13",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(2).png",
+     "price_save": 25000,
+    "price_wallpaper": 25600
+  },
+  {
+    "id": "img14",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(3).png",
+     "price_save": 30000,
+    "price_wallpaper": 30100
+  },
+  {
+    "id": "img15",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(4).png",
+     "price_save": 40000,
+    "price_wallpaper": 40100
+  },
+  {
+    "id": "img16",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(5).png",
+     "price_save": 45000,
+    "price_wallpaper": 45600
+  },
+  {
+    "id": "img17",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(6).png",
+     "price_save": 50000,
+    "price_wallpaper": 50100
+  },
+  {
+    "id": "img18",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(7).png",
+     "price_save": 55000,
+    "price_wallpaper": 55600
+  },
+  {
+    "id": "img19",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(8).png",
+     "price_save": 60000,
+    "price_wallpaper": 60100
+  },
+  {
+    "id": "img20",
+    "url": "https://raw.githubusercontent.com/RoniPeve/AnimeWallpaper/main/Imagenes1/1%20(9).png",
+     "price_save": 65000,
+    "price_wallpaper": 65600
   }
 
 ]
